@@ -1,4 +1,4 @@
-<![MasterHead]><https://trisya.com/myimg/child/Website%20Design.gif>
+<https://trisya.com/myimg/child/Website%20Design.gif>
 
 <h1 align="center">Hi 👋, I'm Ashish Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
